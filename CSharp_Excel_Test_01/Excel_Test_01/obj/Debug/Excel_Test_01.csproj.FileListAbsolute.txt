@@ -1,0 +1,4 @@
+F:\Projects\Excel_Test_01\Excel_Test_01\obj\Debug\Excel_Test_01.csproj.ResolveComReference.cache
+F:\Projects\Excel_Test_01\Excel_Test_01\obj\Debug\Excel_Test_01.Form1.resources
+F:\Projects\Excel_Test_01\Excel_Test_01\obj\Debug\Excel_Test_01.Properties.Resources.resources
+F:\Projects\Excel_Test_01\Excel_Test_01\obj\Debug\Excel_Test_01.csproj.GenerateResource.Cache

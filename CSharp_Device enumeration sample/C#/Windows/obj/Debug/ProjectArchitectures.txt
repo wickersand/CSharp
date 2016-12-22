@@ -1,0 +1,1 @@
+F:\Projects\Device enumeration sample\C#\Windows\DeviceEnumeration.Windows.csproj;neutral
